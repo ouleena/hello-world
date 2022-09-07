@@ -42,4 +42,4 @@
 <ul><li>Jan 2016: <a href="https://www.umassmedia.com/opinions/protesting-the-oscars-try-protesting-movies/article_a84a6aec-c23e-11e5-a138-df5853e96fc2.html"><i>Protesting the Oscars? Try Protesting Movies</i></a></ul></li>
 <ul><li>October 2017: <a href="https://www.umassmedia.com/opinions/a-commuters-dilemma/article_fb01642a-a955-11e7-9d67-4fa50a1a48de.html"><i>A Commuter's Dilemma</i></a></ul></li>
 </ul>
-<p>in case you haven't already, visit my *resume* repository for a more in-depth view on my experience. thanks for reading!</p>
+<p>in case you haven't already, visit my [resume repository](https://github.com/welinafarah/resume) for a more in-depth view on my experience. thanks for reading!</p>
